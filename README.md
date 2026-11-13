@@ -249,7 +249,10 @@ npm run preview
 | Alt + N | Change Theme |
 
 ---
+# Working Link
+https://insightx-delta.vercel.app/
 
+---
 # 🔐 Privacy
 
 InsightX is designed with a privacy-first approach.
